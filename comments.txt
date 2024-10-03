@@ -1,0 +1,14 @@
+// Just a few comments for the person checking my submission
+
+-> I have made a new sample2.json file it to help myself understand 
+the problem better and make specific test cases
+-> I have changed the GetSampleData to accept a parameter so you can test the code
+with any file in main.go but just replacing the filename
+-> You can just type  "go test ./folder" to run all the test cases 
+
+Side note:
+You need the project in Go src file for it top work properly and so it figures out the 
+paths itself
+
+
+Thank you!:)
